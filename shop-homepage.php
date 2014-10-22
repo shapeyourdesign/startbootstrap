@@ -46,7 +46,7 @@
               <li>Custom fonts, colors, and stylings will go a long way with this template.</li>
             </ul>
         </div>
-        <div class="col-lg-12">
+        <div class="col-lg-11">
           <h3>Credits:</h3>
             <p>Special thanks to <a target="_blank" href="http://maxoffsky.com/">Maks</a>, creator of <a target="_blank" href="http://bootsnipp.com/">Bootsnipp</a>, for creating this template for us! Check out his website at <a target="_blank" href="http://maxoffsky.com/">http://maxoffsky.com</a>!</p>
         </div>
